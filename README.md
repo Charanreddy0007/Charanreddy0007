@@ -1,5 +1,8 @@
 # 💫 About Me:
-Cybersecurity Student<br>Passionate about Python, Networking, and Security Research<br>Currently learning Networking, Vulnerability Analysis, and Ethical Hacking<br>I enjoy building security-related tools and experimenting with automation
+- Cybersecurity Student
+- Passionate about Python, Networking, and Security Research<br>
+- Currently learning Networking, Vulnerability Analysis, and Ethical Hacking<br>
+- I enjoy building security-related tools and experimenting with automation
 
 
 ## 🌐 Socials:
