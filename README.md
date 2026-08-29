@@ -89,7 +89,7 @@ I enjoy understanding how systems work—from designing applications to learning
   <img
     src="./assets/github-languages.svg"
     alt="Top Languages"
-    width="45%"
+    width="40%"
   />
 </p>
 
