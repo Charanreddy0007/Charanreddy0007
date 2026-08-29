@@ -6,7 +6,7 @@ Software Engineering • AI Engineering • Application Security
 </h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="charanreddy.qzz.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
