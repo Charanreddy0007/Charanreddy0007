@@ -68,7 +68,7 @@ I enjoy understanding how systems work—from designing applications to learning
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Charanreddy0007/Charanreddy0007/output/pacman-contribution-graph-dark.svg"
+    src="https://raw.githubusercontent.com/Charanreddy0007/Charanreddy0007/output/breakout-contribution-graph-dark.svg"
     alt="Pac-Man contribution graph"
     width="900"
   />
