@@ -84,12 +84,12 @@ I enjoy understanding how systems work—from designing applications to learning
   <img
     src="./assets/github-stats.svg"
     alt="GitHub Stats"
-    width="48%"
+    width="53%"
   />
   <img
     src="./assets/github-languages.svg"
     alt="Top Languages"
-    width="48%"
+    width="45%"
   />
 </p>
 
