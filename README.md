@@ -78,10 +78,24 @@ I enjoy understanding how systems work—from designing applications to learning
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Charanreddy0007&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charanreddy0007&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
-[![Charan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Charanreddy0007&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Charanreddy0007&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 
 ## 🌐 Connect With Me
