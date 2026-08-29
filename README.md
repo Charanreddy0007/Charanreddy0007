@@ -78,22 +78,26 @@ I enjoy understanding how systems work—from designing applications to learning
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Charanreddy0007&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    src="./assets/github-stats.svg"
+    alt="GitHub Stats"
+    width="48%"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charanreddy0007&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
+    src="./assets/github-languages.svg"
+    alt="Top Languages"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Charanreddy0007&theme=dark&hide_border=true"
+    src="./assets/github-streak.svg"
     alt="GitHub Streak"
+    width="70%"
   />
 </p>
 

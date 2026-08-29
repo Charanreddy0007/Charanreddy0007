@@ -1,8 +1,8 @@
-name: Generate breakout Contribution Graph
+name: Generate Breakout Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
 
   workflow_dispatch:
 
@@ -10,16 +10,16 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: Generate contribution graph
+      - name: Generate Breakout contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
