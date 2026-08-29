@@ -57,11 +57,13 @@ I enjoy understanding how systems work—from designing applications to learning
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img
-    src="./assets/stats.svg"
-    alt="LeetCode Stats"
-    width="100%"
-  />
+  <a href="https://leetcode.com/u/Charanreddy0007/">
+    <img
+      src="./assets/stats.svg"
+      alt="LeetCode Stats"
+      width="100%"
+    />
+  </a>
 </p>
 
 ## 👾 Contribution Activity
@@ -74,9 +76,6 @@ I enjoy understanding how systems work—from designing applications to learning
   />
 </p>
 
-
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
