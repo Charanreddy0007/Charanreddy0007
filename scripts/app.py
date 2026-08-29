@@ -15,7 +15,7 @@ from html import escape
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-DATA_FILE = BASE_DIR / "data" / "leetcodeResponse.json"
+DATA_FILE = BASE_DIR / "data" / "LeetcodeResponse.json"
 OUTPUT_FILE = BASE_DIR / "assets" / "stats.svg"
 
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
