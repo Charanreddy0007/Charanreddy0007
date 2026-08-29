@@ -54,35 +54,24 @@ I enjoy understanding how systems work—from designing applications to learning
 ---
 
 
-
 ## 📊 LeetCode Stats
 
 <p align="center">
   <img
     src="./assets/stats.svg"
-    alt="GitHub Stats"
+    alt="LeetCode Stats"
+    width="100%"
   />
 </p>
 
 ## 👾 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Charanreddy0007/Charanreddy0007/output/pacman-contribution-graph-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Charanreddy0007/Charanreddy0007/output/pacman-contribution-graph.svg"
-    />
-
-    <img
-      alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/Charanreddy0007/Charanreddy0007/output/pacman-contribution-graph.svg"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Charanreddy0007/Charanreddy0007/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man contribution graph"
+    width="900"
+  />
 </p>
 
 
