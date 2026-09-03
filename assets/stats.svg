@@ -222,7 +222,7 @@
         font-family="monospace"
         font-size="14"
         font-weight="700">
-    1,886,831
+    1,871,693
   </text>
 
 
@@ -292,7 +292,7 @@
         font-family="monospace"
         font-size="14"
         font-weight="700">
-    69.8%
+    70.1%
   </text>
 
 
@@ -395,7 +395,7 @@
         font-family="Arial, sans-serif"
         font-size="36"
         font-weight="700">
-    85
+    86
   </text>
 
 
@@ -473,7 +473,7 @@
         font-family="Arial, sans-serif"
         font-size="36"
         font-weight="700">
-    69
+    70
   </text>
 
 
@@ -581,7 +581,7 @@
         stroke="url(#easyGradient)"
         stroke-width="9"
         stroke-linecap="round"
-        stroke-dasharray="75.29 100"/>
+        stroke-dasharray="75.58 100"/>
 
 
 
@@ -609,7 +609,7 @@
         stroke="url(#mediumGradient)"
         stroke-width="9"
         stroke-linecap="round"
-        stroke-dasharray="23.53 100"/>
+        stroke-dasharray="23.26 100"/>
 
 
 
@@ -637,7 +637,7 @@
         stroke="#925bef"
         stroke-width="9"
         stroke-linecap="round"
-        stroke-dasharray="1.18 100"/>
+        stroke-dasharray="1.16 100"/>
 
 
 
@@ -650,7 +650,7 @@
         fill="#a8b0bb"
         font-family="monospace"
         font-size="14">
-    75.3%
+    75.6%
   </text>
 
 
@@ -661,7 +661,7 @@
         fill="#a8b0bb"
         font-family="monospace"
         font-size="14">
-    23.5%
+    23.3%
   </text>
 
 
@@ -1094,7 +1094,7 @@
 <rect x="950.9" y="0.0" width="15.3" height="15.3" rx="2" fill="#176b50"><title>2026-08-30: 4 submissions</title></rect>
 <rect x="950.9" y="18.3" width="15.3" height="15.3" rx="2" fill="#173f35"><title>2026-08-31: 1 submissions</title></rect>
 <rect x="950.9" y="36.6" width="15.3" height="15.3" rx="2" fill="#173f35"><title>2026-09-01: 1 submissions</title></rect>
-<rect x="950.9" y="54.9" width="15.3" height="15.3" rx="2" fill="#252a2f"><title>2026-09-02: 0 submissions</title></rect>
+<rect x="950.9" y="54.9" width="15.3" height="15.3" rx="2" fill="#173f35"><title>2026-09-02: 2 submissions</title></rect>
 <rect x="950.9" y="73.1" width="15.3" height="15.3" rx="2" fill="#252a2f"><title>2026-09-03: 0 submissions</title></rect>
 <rect x="950.9" y="91.4" width="15.3" height="15.3" rx="2" fill="#252a2f"><title>2026-09-04: 0 submissions</title></rect>
 <rect x="950.9" y="109.7" width="15.3" height="15.3" rx="2" fill="#252a2f"><title>2026-09-05: 0 submissions</title></rect>
