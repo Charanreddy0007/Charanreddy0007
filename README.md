@@ -124,3 +124,11 @@ I enjoy understanding how systems work—from designing applications to learning
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Charanreddy0007/ProfileCounter.git">
+    <img
+      src="https://profilecounter.onrender.com/count/Charanreddy0007/project"
+      alt="Project Views"
+    />
+  </a>
+</p>
